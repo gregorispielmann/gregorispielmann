@@ -1,11 +1,11 @@
-### Hi there 👋 my name is Gregori and I'm a full stack developer
+### Hi there 👋  my name is Gregori and I'm a full stack developer
 
 <!--
 **gregorispielmann/gregorispielmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Lyncas and p
+- 🔭 I’m currently working on ... Lyncas and personal projects
 - 🌱 I’m currently learning ... Python and Flutter
 <!-- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
