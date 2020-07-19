@@ -8,7 +8,7 @@
 - 💻 My specialties are ... React, React Native and Node.js
 - 🔭 I’m currently working on ... Lyncas and personal projects
 - 🌱 I’m currently learning ... Python and Flutter
-- 📫 How to reach me: ... You can found me on Linkedin - [https://linkedin.com/in/gregorispielmann](Profile)
+- 📫 How to reach me: ... You can found me on Linkedin - [My Linkedin Profile](https://linkedin.com/in/gregorispielmann)
 <!-- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
